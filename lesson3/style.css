@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.awesome {
+    margin: 107px auto;
+    width: 1400px;
+    text-align: center;
+    
+}
+
+.description {
+    font-size: 14px;
+    color: #86878b;
+    font-family: 'Raleway', sans-serif;
+}
+
+.title {
+    font-family: 'Raleway', sans-serif;
+}
+
+.line {
+    width: 64px;
+    height: 2px;
+    background-color: orange;
+    margin: 30px auto;
+}
+
+.card__image {
+    margin: 0 auto 30px;
+    width: 70px;
+    height: 70px;
+    border: 2px solid orange;
+    border-radius: 50%;
+
+    background-image: url('/images/klava.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.wrapper {
+    width: 1110px;
+    margin: auto;
+}
+
+.card {
+    float: left;
+    width: 350px;
+}
+
+.m-lr-30 {
+    margin: 0 30px;
+}
+
+.awesome__header {
+margin-bottom: 80px;
+}
+
+.card__title {
+    margin-bottom: 30px;
+}
